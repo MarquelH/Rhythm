@@ -1,3 +1,3 @@
-# Rh.ythm
+# Rhy.thm
 
-Rh.ythm is an in-development app.
+Rhy.thm is an in-development app.
